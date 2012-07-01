@@ -1,3 +1,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = git://github.com/splinter98/Medama-oyji-plugins.git
+[submodule "yapsy"]
+	path = yapsy
+	url = git://github.com/splinter98/yapsy.git
